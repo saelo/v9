@@ -1,7 +1,7 @@
 v9
 --
 
-The patch should apply cleanly to the latest (as of 12/26/2017 -- see https://omahaproxy.appspot.com/) release version of Chromium (63.0.3239.108) and v8 (6.3.292.48).
+The patch should apply cleanly to the latest (as of 12/26/2017 -- see https://omahaproxy.appspot.com/) release version of Chromium (63.0.3239.108) and v8 (6.3.292.48). The v9_7.0.patch should apply cleanly to v8 version 7.0.276.28.
 
 To obtain a local copy of the v8 source code do the following:
 
